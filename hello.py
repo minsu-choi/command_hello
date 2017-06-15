@@ -1,2 +1,3 @@
 
-[A[A[A[B[C[C[3~[3~[Bprint()[D""[DHello world")
+print("Hello world")
+print("Tell your world")
